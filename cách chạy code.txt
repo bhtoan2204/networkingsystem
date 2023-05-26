@@ -1,0 +1,4 @@
+bật cmd tại đây
+
+Server: java Server/Main
+Client: java Client/Main
